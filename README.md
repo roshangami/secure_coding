@@ -1,6 +1,6 @@
 # Secure coding for Web application development
 
-This respository shows how to develop the basic web application feature. Finding vulnerability in that feature, attacking that vulnerability and lastly mitigaating the vulnerability.
+This repository shows how to develop the basic web application feature. Finding vulnerability in that feature, attacking that vulnerability and lastly mitigating the vulnerability.
 
 ## Develop -> Attack -> Mitigate
 
