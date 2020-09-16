@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroes>
+	<hero>
+		<id>1</id>
+		<login>neo</login>
+		<password>testme</password>
+		<text>I am Neo</text>
+	</hero>
+
+	<hero>
+		<id>2</id>
+		<login>thor</login>
+		<password>asgard</password>
+		<text>I m son of Odin</text>
+	</hero>
+</heroes>
